@@ -1,0 +1,3145 @@
+Archive member included because of file (symbol)
+
+/home/work/rootfs/usr/lib/./libc_nonshared.a(elf-init.oS)
+                              /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o (__libc_csu_init)
+
+Allocating common symbols
+Common symbol       size              file
+
+gsem_upload_pos     0x10              ./sample/position.o
+g_c1_kt2_list       0xc               ./sample/position.o
+mutex_kp2_kft2_list
+                    0x18              ./sample/position.o
+mutex_kp1_kft1_list
+                    0x18              ./sample/position.o
+mutex_c1_kt2_list   0x18              ./sample/position.o
+g_k2_sample_list    0xc               ./sample/array.o
+g_c1_kt1_list       0xc               ./sample/position.o
+g_kp1_kft1_list     0xc               ./sample/position.o
+srv_addr            0x6e              ./communication/local_socket.o
+g_kp2_kft2_buf      0x4               ./sample/position.o
+g_kp1_kft1_buf      0x4               ./sample/position.o
+g_sys_config        0x2c              ./app/sys_conf.o
+mutex_c1_kt1_list   0x18              ./sample/position.o
+g_k1_sample_list    0xc               ./sample/array.o
+g_c1_kt2_buf        0x4               ./sample/position.o
+g_c1_kt1_buf        0x4               ./sample/position.o
+g_kp2_kft2_list     0xc               ./sample/position.o
+upload_pos_select   0x4               ./sample/position.o
+
+Discarded input sections
+
+ .rodata.cst4   0x00000000        0x4 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+ .ARM.extab     0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+ .data          0x00000000        0x4 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+ .bss           0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+ .gnu_debuglink
+                0x00000000        0xc /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+ .data          0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crti.o
+ .bss           0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crti.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crti.o
+ .gnu_debuglink
+                0x00000000        0xc /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crti.o
+ .data          0x00000000        0x4 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/crtbegin.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/crtbegin.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/buf_factory.o
+ .text          0x00000000        0x0 ./tool/buf_factory.o
+ .data          0x00000000        0x0 ./tool/buf_factory.o
+ .bss           0x00000000        0x0 ./tool/buf_factory.o
+ .note.GNU-stack
+                0x00000000        0x0 ./tool/buf_factory.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/key_file.o
+ .text          0x00000000        0x0 ./tool/key_file.o
+ .data          0x00000000        0x0 ./tool/key_file.o
+ .bss           0x00000000        0x0 ./tool/key_file.o
+ .text.key_file_save
+                0x00000000       0x70 ./tool/key_file.o
+ .text.key_file_set_int
+                0x00000000       0x2c ./tool/key_file.o
+ .text.key_file_get_string
+                0x00000000       0x64 ./tool/key_file.o
+ .text.key_file_set_string
+                0x00000000       0x2c ./tool/key_file.o
+ .debug_macro   0x00000000      0x832 ./tool/key_file.o
+ .debug_macro   0x00000000      0x15c ./tool/key_file.o
+ .debug_macro   0x00000000       0x16 ./tool/key_file.o
+ .debug_macro   0x00000000       0x35 ./tool/key_file.o
+ .debug_macro   0x00000000      0x167 ./tool/key_file.o
+ .debug_macro   0x00000000       0x35 ./tool/key_file.o
+ .debug_macro   0x00000000       0x70 ./tool/key_file.o
+ .debug_macro   0x00000000       0x97 ./tool/key_file.o
+ .debug_macro   0x00000000       0x16 ./tool/key_file.o
+ .debug_macro   0x00000000       0x58 ./tool/key_file.o
+ .debug_macro   0x00000000       0x5e ./tool/key_file.o
+ .debug_macro   0x00000000       0xca ./tool/key_file.o
+ .debug_macro   0x00000000       0x1c ./tool/key_file.o
+ .debug_macro   0x00000000       0x10 ./tool/key_file.o
+ .debug_macro   0x00000000       0x22 ./tool/key_file.o
+ .debug_macro   0x00000000       0x2e ./tool/key_file.o
+ .debug_macro   0x00000000       0x4c ./tool/key_file.o
+ .debug_macro   0x00000000       0x10 ./tool/key_file.o
+ .debug_macro   0x00000000       0x10 ./tool/key_file.o
+ .debug_macro   0x00000000       0x86 ./tool/key_file.o
+ .debug_macro   0x00000000       0x93 ./tool/key_file.o
+ .debug_macro   0x00000000       0x2e ./tool/key_file.o
+ .debug_macro   0x00000000       0x16 ./tool/key_file.o
+ .debug_macro   0x00000000       0x1e ./tool/key_file.o
+ .debug_macro   0x00000000       0xd0 ./tool/key_file.o
+ .debug_macro   0x00000000       0x28 ./tool/key_file.o
+ .debug_macro   0x00000000       0x27 ./tool/key_file.o
+ .note.GNU-stack
+                0x00000000        0x0 ./tool/key_file.o
+ .group         0x00000000        0x8 ./tool/list.o
+ .text          0x00000000        0x0 ./tool/list.o
+ .data          0x00000000        0x0 ./tool/list.o
+ .bss           0x00000000        0x0 ./tool/list.o
+ .text.list_add
+                0x00000000       0x20 ./tool/list.o
+ .debug_macro   0x00000000      0x832 ./tool/list.o
+ .note.GNU-stack
+                0x00000000        0x0 ./tool/list.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/mailbox.o
+ .text          0x00000000        0x0 ./tool/mailbox.o
+ .data          0x00000000        0x0 ./tool/mailbox.o
+ .bss           0x00000000        0x0 ./tool/mailbox.o
+ .text.mailbox_timedpend
+                0x00000000       0x58 ./tool/mailbox.o
+ .text.mailbox_timedpost
+                0x00000000       0x54 ./tool/mailbox.o
+ .debug_macro   0x00000000      0x832 ./tool/mailbox.o
+ .debug_macro   0x00000000      0x15c ./tool/mailbox.o
+ .debug_macro   0x00000000       0x16 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x35 ./tool/mailbox.o
+ .debug_macro   0x00000000      0x167 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x35 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x70 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x5e ./tool/mailbox.o
+ .debug_macro   0x00000000       0xca ./tool/mailbox.o
+ .debug_macro   0x00000000       0x3a ./tool/mailbox.o
+ .debug_macro   0x00000000       0x20 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x1c ./tool/mailbox.o
+ .debug_macro   0x00000000       0x10 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x22 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x2e ./tool/mailbox.o
+ .debug_macro   0x00000000       0x4c ./tool/mailbox.o
+ .debug_macro   0x00000000       0x1c ./tool/mailbox.o
+ .debug_macro   0x00000000       0x10 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x16 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x28 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x10 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x4c ./tool/mailbox.o
+ .debug_macro   0x00000000       0x1c ./tool/mailbox.o
+ .debug_macro   0x00000000       0x20 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x46 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x22 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x16 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x97 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x3a ./tool/mailbox.o
+ .debug_macro   0x00000000       0x10 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x12 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x10 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x12 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x16 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x20 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x2e ./tool/mailbox.o
+ .debug_macro   0x00000000       0x16 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x1e ./tool/mailbox.o
+ .debug_macro   0x00000000       0xd0 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x64 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x10 ./tool/mailbox.o
+ .debug_macro   0x00000000      0x1d9 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x28 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x27 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x1c ./tool/mailbox.o
+ .debug_macro   0x00000000       0x10 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x10 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x86 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x16 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x58 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x93 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x10 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x10 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x22 ./tool/mailbox.o
+ .debug_macro   0x00000000       0x22 ./tool/mailbox.o
+ .note.GNU-stack
+                0x00000000        0x0 ./tool/mailbox.o
+ .group         0x00000000        0x8 ./tool/message.o
+ .group         0x00000000        0x8 ./tool/message.o
+ .group         0x00000000        0x8 ./tool/message.o
+ .group         0x00000000        0x8 ./tool/message.o
+ .group         0x00000000        0x8 ./tool/message.o
+ .group         0x00000000        0x8 ./tool/message.o
+ .text          0x00000000        0x0 ./tool/message.o
+ .data          0x00000000        0x0 ./tool/message.o
+ .bss           0x00000000        0x0 ./tool/message.o
+ .debug_macro   0x00000000      0x832 ./tool/message.o
+ .debug_macro   0x00000000       0x10 ./tool/message.o
+ .debug_macro   0x00000000       0x10 ./tool/message.o
+ .debug_macro   0x00000000       0x22 ./tool/message.o
+ .debug_macro   0x00000000       0x22 ./tool/message.o
+ .note.GNU-stack
+                0x00000000        0x0 ./tool/message.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/msg_factory.o
+ .text          0x00000000        0x0 ./tool/msg_factory.o
+ .data          0x00000000        0x0 ./tool/msg_factory.o
+ .bss           0x00000000        0x0 ./tool/msg_factory.o
+ .debug_macro   0x00000000      0x832 ./tool/msg_factory.o
+ .debug_macro   0x00000000      0x15c ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x16 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x35 ./tool/msg_factory.o
+ .debug_macro   0x00000000      0x167 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x35 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x70 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x16 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x3a ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x4c ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x1c ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x10 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x22 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x2e ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x4c ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x22 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x62 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x5e ./tool/msg_factory.o
+ .debug_macro   0x00000000       0xca ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x74 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x3a ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x12 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x20 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x1c ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x10 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x16 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x28 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x10 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x4c ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x1c ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x20 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x46 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x10 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x10 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x12 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x16 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x20 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x2e ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x16 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x1e ./tool/msg_factory.o
+ .debug_macro   0x00000000       0xd0 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x64 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x10 ./tool/msg_factory.o
+ .debug_macro   0x00000000      0x1d9 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x3f ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x28 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x27 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x10 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x10 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x22 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x22 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x10 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x10 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x22 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x86 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x16 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x58 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x93 ./tool/msg_factory.o
+ .debug_macro   0x00000000       0x1c ./tool/msg_factory.o
+ .note.GNU-stack
+                0x00000000        0x0 ./tool/msg_factory.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .group         0x00000000        0x8 ./tool/thread.o
+ .text          0x00000000        0x0 ./tool/thread.o
+ .data          0x00000000        0x0 ./tool/thread.o
+ .bss           0x00000000        0x0 ./tool/thread.o
+ .debug_macro   0x00000000      0x832 ./tool/thread.o
+ .debug_macro   0x00000000       0x16 ./tool/thread.o
+ .debug_macro   0x00000000       0x35 ./tool/thread.o
+ .debug_macro   0x00000000      0x167 ./tool/thread.o
+ .debug_macro   0x00000000       0x35 ./tool/thread.o
+ .debug_macro   0x00000000       0x70 ./tool/thread.o
+ .debug_macro   0x00000000       0x1c ./tool/thread.o
+ .debug_macro   0x00000000       0x10 ./tool/thread.o
+ .debug_macro   0x00000000       0x22 ./tool/thread.o
+ .debug_macro   0x00000000       0x2e ./tool/thread.o
+ .debug_macro   0x00000000       0x4c ./tool/thread.o
+ .debug_macro   0x00000000       0x5e ./tool/thread.o
+ .debug_macro   0x00000000       0xca ./tool/thread.o
+ .debug_macro   0x00000000       0x89 ./tool/thread.o
+ .debug_macro   0x00000000       0x10 ./tool/thread.o
+ .debug_macro   0x00000000       0x16 ./tool/thread.o
+ .debug_macro   0x00000000       0x20 ./tool/thread.o
+ .debug_macro   0x00000000       0x46 ./tool/thread.o
+ .debug_macro   0x00000000       0x16 ./tool/thread.o
+ .debug_macro   0x00000000       0x2e ./tool/thread.o
+ .debug_macro   0x00000000       0x16 ./tool/thread.o
+ .debug_macro   0x00000000       0x1e ./tool/thread.o
+ .debug_macro   0x00000000       0xd0 ./tool/thread.o
+ .debug_macro   0x00000000       0x64 ./tool/thread.o
+ .debug_macro   0x00000000       0x10 ./tool/thread.o
+ .debug_macro   0x00000000      0x1d9 ./tool/thread.o
+ .debug_macro   0x00000000       0x27 ./tool/thread.o
+ .debug_macro   0x00000000       0x16 ./tool/thread.o
+ .debug_macro   0x00000000       0x97 ./tool/thread.o
+ .debug_macro   0x00000000       0x3a ./tool/thread.o
+ .debug_macro   0x00000000       0x6a ./tool/thread.o
+ .debug_macro   0x00000000       0x62 ./tool/thread.o
+ .debug_macro   0x00000000       0x12 ./tool/thread.o
+ .debug_macro   0x00000000       0x20 ./tool/thread.o
+ .debug_macro   0x00000000       0x1c ./tool/thread.o
+ .debug_macro   0x00000000       0x10 ./tool/thread.o
+ .debug_macro   0x00000000       0x1c ./tool/thread.o
+ .debug_macro   0x00000000       0x20 ./tool/thread.o
+ .debug_macro   0x00000000       0x10 ./tool/thread.o
+ .debug_macro   0x00000000       0x10 ./tool/thread.o
+ .debug_macro   0x00000000       0x12 ./tool/thread.o
+ .debug_macro   0x00000000       0x10 ./tool/thread.o
+ .debug_macro   0x00000000       0x1c ./tool/thread.o
+ .debug_macro   0x00000000       0x58 ./tool/thread.o
+ .debug_macro   0x00000000       0x88 ./tool/thread.o
+ .debug_macro   0x00000000       0x76 ./tool/thread.o
+ .debug_macro   0x00000000       0x1c ./tool/thread.o
+ .note.GNU-stack
+                0x00000000        0x0 ./tool/thread.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/array.o
+ .text          0x00000000        0x0 ./sample/array.o
+ .data          0x00000000        0x0 ./sample/array.o
+ .bss           0x00000000        0x0 ./sample/array.o
+ .debug_macro   0x00000000       0x10 ./sample/array.o
+ .debug_macro   0x00000000       0x10 ./sample/array.o
+ .debug_macro   0x00000000       0x22 ./sample/array.o
+ .debug_macro   0x00000000       0x22 ./sample/array.o
+ .debug_macro   0x00000000      0x15c ./sample/array.o
+ .debug_macro   0x00000000       0x16 ./sample/array.o
+ .debug_macro   0x00000000       0x35 ./sample/array.o
+ .debug_macro   0x00000000      0x167 ./sample/array.o
+ .debug_macro   0x00000000       0x35 ./sample/array.o
+ .debug_macro   0x00000000       0x70 ./sample/array.o
+ .debug_macro   0x00000000       0x5e ./sample/array.o
+ .debug_macro   0x00000000       0xca ./sample/array.o
+ .debug_macro   0x00000000       0x74 ./sample/array.o
+ .debug_macro   0x00000000       0x3a ./sample/array.o
+ .debug_macro   0x00000000       0x89 ./sample/array.o
+ .debug_macro   0x00000000       0x20 ./sample/array.o
+ .debug_macro   0x00000000       0x1c ./sample/array.o
+ .debug_macro   0x00000000       0x10 ./sample/array.o
+ .debug_macro   0x00000000       0x22 ./sample/array.o
+ .debug_macro   0x00000000       0x2e ./sample/array.o
+ .debug_macro   0x00000000       0x4c ./sample/array.o
+ .debug_macro   0x00000000       0x1c ./sample/array.o
+ .debug_macro   0x00000000       0x10 ./sample/array.o
+ .debug_macro   0x00000000       0x16 ./sample/array.o
+ .debug_macro   0x00000000       0x28 ./sample/array.o
+ .debug_macro   0x00000000       0x10 ./sample/array.o
+ .debug_macro   0x00000000       0x4c ./sample/array.o
+ .debug_macro   0x00000000       0x1c ./sample/array.o
+ .debug_macro   0x00000000       0x20 ./sample/array.o
+ .debug_macro   0x00000000       0x46 ./sample/array.o
+ .debug_macro   0x00000000       0x22 ./sample/array.o
+ .debug_macro   0x00000000       0x16 ./sample/array.o
+ .debug_macro   0x00000000       0x20 ./sample/array.o
+ .debug_macro   0x00000000      0x106 ./sample/array.o
+ .debug_macro   0x00000000      0x1e4 ./sample/array.o
+ .debug_macro   0x00000000       0x12 ./sample/array.o
+ .debug_macro   0x00000000       0x64 ./sample/array.o
+ .debug_macro   0x00000000       0x20 ./sample/array.o
+ .debug_macro   0x00000000       0x12 ./sample/array.o
+ .debug_macro   0x00000000       0x1c ./sample/array.o
+ .debug_macro   0x00000000       0x6a ./sample/array.o
+ .debug_macro   0x00000000       0x16 ./sample/array.o
+ .debug_macro   0x00000000       0x97 ./sample/array.o
+ .debug_macro   0x00000000       0x3a ./sample/array.o
+ .debug_macro   0x00000000       0x6a ./sample/array.o
+ .debug_macro   0x00000000       0x69 ./sample/array.o
+ .debug_macro   0x00000000       0x10 ./sample/array.o
+ .debug_macro   0x00000000       0x10 ./sample/array.o
+ .debug_macro   0x00000000       0x12 ./sample/array.o
+ .debug_macro   0x00000000       0x16 ./sample/array.o
+ .debug_macro   0x00000000       0x2e ./sample/array.o
+ .debug_macro   0x00000000       0x16 ./sample/array.o
+ .debug_macro   0x00000000       0x1e ./sample/array.o
+ .debug_macro   0x00000000       0xd0 ./sample/array.o
+ .debug_macro   0x00000000       0x64 ./sample/array.o
+ .debug_macro   0x00000000       0x10 ./sample/array.o
+ .debug_macro   0x00000000      0x1d9 ./sample/array.o
+ .debug_macro   0x00000000       0x3f ./sample/array.o
+ .debug_macro   0x00000000       0x28 ./sample/array.o
+ .debug_macro   0x00000000       0x27 ./sample/array.o
+ .debug_macro   0x00000000       0x10 ./sample/array.o
+ .debug_macro   0x00000000       0x10 ./sample/array.o
+ .debug_macro   0x00000000       0x86 ./sample/array.o
+ .debug_macro   0x00000000       0x16 ./sample/array.o
+ .debug_macro   0x00000000       0x58 ./sample/array.o
+ .debug_macro   0x00000000       0x93 ./sample/array.o
+ .note.GNU-stack
+                0x00000000        0x0 ./sample/array.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .group         0x00000000        0x8 ./sample/position.o
+ .text          0x00000000        0x0 ./sample/position.o
+ .data          0x00000000        0x0 ./sample/position.o
+ .bss           0x00000000        0x0 ./sample/position.o
+ .debug_macro   0x00000000      0x15c ./sample/position.o
+ .debug_macro   0x00000000       0x16 ./sample/position.o
+ .debug_macro   0x00000000       0x35 ./sample/position.o
+ .debug_macro   0x00000000      0x167 ./sample/position.o
+ .debug_macro   0x00000000       0x35 ./sample/position.o
+ .debug_macro   0x00000000       0x70 ./sample/position.o
+ .debug_macro   0x00000000       0x5e ./sample/position.o
+ .debug_macro   0x00000000       0xca ./sample/position.o
+ .debug_macro   0x00000000       0x74 ./sample/position.o
+ .debug_macro   0x00000000       0x3a ./sample/position.o
+ .debug_macro   0x00000000       0x89 ./sample/position.o
+ .debug_macro   0x00000000       0x20 ./sample/position.o
+ .debug_macro   0x00000000       0x1c ./sample/position.o
+ .debug_macro   0x00000000       0x10 ./sample/position.o
+ .debug_macro   0x00000000       0x22 ./sample/position.o
+ .debug_macro   0x00000000       0x2e ./sample/position.o
+ .debug_macro   0x00000000       0x4c ./sample/position.o
+ .debug_macro   0x00000000       0x1c ./sample/position.o
+ .debug_macro   0x00000000       0x10 ./sample/position.o
+ .debug_macro   0x00000000       0x16 ./sample/position.o
+ .debug_macro   0x00000000       0x28 ./sample/position.o
+ .debug_macro   0x00000000       0x10 ./sample/position.o
+ .debug_macro   0x00000000       0x4c ./sample/position.o
+ .debug_macro   0x00000000       0x1c ./sample/position.o
+ .debug_macro   0x00000000       0x20 ./sample/position.o
+ .debug_macro   0x00000000       0x46 ./sample/position.o
+ .debug_macro   0x00000000       0x22 ./sample/position.o
+ .debug_macro   0x00000000       0x10 ./sample/position.o
+ .debug_macro   0x00000000       0x10 ./sample/position.o
+ .debug_macro   0x00000000       0x10 ./sample/position.o
+ .debug_macro   0x00000000       0x22 ./sample/position.o
+ .debug_macro   0x00000000       0x22 ./sample/position.o
+ .debug_macro   0x00000000       0x16 ./sample/position.o
+ .debug_macro   0x00000000       0x20 ./sample/position.o
+ .debug_macro   0x00000000       0x10 ./sample/position.o
+ .debug_macro   0x00000000       0x12 ./sample/position.o
+ .debug_macro   0x00000000       0x10 ./sample/position.o
+ .debug_macro   0x00000000       0x86 ./sample/position.o
+ .debug_macro   0x00000000       0x16 ./sample/position.o
+ .debug_macro   0x00000000       0x58 ./sample/position.o
+ .debug_macro   0x00000000       0x29 ./sample/position.o
+ .debug_macro   0x00000000       0x93 ./sample/position.o
+ .debug_macro   0x00000000       0x16 ./sample/position.o
+ .debug_macro   0x00000000       0x2e ./sample/position.o
+ .debug_macro   0x00000000       0x16 ./sample/position.o
+ .debug_macro   0x00000000       0x1e ./sample/position.o
+ .debug_macro   0x00000000       0xd0 ./sample/position.o
+ .debug_macro   0x00000000       0x64 ./sample/position.o
+ .debug_macro   0x00000000       0x10 ./sample/position.o
+ .debug_macro   0x00000000      0x1d9 ./sample/position.o
+ .debug_macro   0x00000000       0x3f ./sample/position.o
+ .debug_macro   0x00000000       0x28 ./sample/position.o
+ .debug_macro   0x00000000       0x27 ./sample/position.o
+ .debug_macro   0x00000000       0x16 ./sample/position.o
+ .debug_macro   0x00000000       0x97 ./sample/position.o
+ .debug_macro   0x00000000       0x3a ./sample/position.o
+ .debug_macro   0x00000000       0x6a ./sample/position.o
+ .debug_macro   0x00000000       0x69 ./sample/position.o
+ .debug_macro   0x00000000       0x10 ./sample/position.o
+ .debug_macro   0x00000000       0x10 ./sample/position.o
+ .debug_macro   0x00000000       0x12 ./sample/position.o
+ .debug_macro   0x00000000      0x340 ./sample/position.o
+ .note.GNU-stack
+                0x00000000        0x0 ./sample/position.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/fpga.o
+ .text          0x00000000        0x0 ./fpga/fpga.o
+ .data          0x00000000        0x0 ./fpga/fpga.o
+ .bss           0x00000000        0x0 ./fpga/fpga.o
+ .debug_macro   0x00000000      0x173 ./fpga/fpga.o
+ .debug_macro   0x00000000      0x15c ./fpga/fpga.o
+ .debug_macro   0x00000000       0x16 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x35 ./fpga/fpga.o
+ .debug_macro   0x00000000      0x167 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x35 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x70 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x5e ./fpga/fpga.o
+ .debug_macro   0x00000000       0xca ./fpga/fpga.o
+ .debug_macro   0x00000000       0x35 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x3a ./fpga/fpga.o
+ .debug_macro   0x00000000       0x20 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x1c ./fpga/fpga.o
+ .debug_macro   0x00000000       0x10 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x22 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x2e ./fpga/fpga.o
+ .debug_macro   0x00000000       0x4c ./fpga/fpga.o
+ .debug_macro   0x00000000       0x1c ./fpga/fpga.o
+ .debug_macro   0x00000000       0x10 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x16 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x28 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x10 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x4c ./fpga/fpga.o
+ .debug_macro   0x00000000       0x1c ./fpga/fpga.o
+ .debug_macro   0x00000000       0x20 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x46 ./fpga/fpga.o
+ .debug_macro   0x00000000      0x181 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x22 ./fpga/fpga.o
+ .debug_macro   0x00000000       0xe6 ./fpga/fpga.o
+ .debug_macro   0x00000000       0xd4 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x16 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x2e ./fpga/fpga.o
+ .debug_macro   0x00000000       0x16 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x1e ./fpga/fpga.o
+ .debug_macro   0x00000000       0xd0 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x64 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x10 ./fpga/fpga.o
+ .debug_macro   0x00000000      0x1d9 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x3f ./fpga/fpga.o
+ .debug_macro   0x00000000       0x28 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x27 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x16 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x3a ./fpga/fpga.o
+ .debug_macro   0x00000000       0x6a ./fpga/fpga.o
+ .debug_macro   0x00000000       0x69 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x10 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x10 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x12 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x6a ./fpga/fpga.o
+ .debug_macro   0x00000000      0x190 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x52 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x27 ./fpga/fpga.o
+ .debug_macro   0x00000000      0x825 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x28 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x16 ./fpga/fpga.o
+ .debug_macro   0x00000000      0x106 ./fpga/fpga.o
+ .debug_macro   0x00000000      0x1e4 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x12 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x64 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x20 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x1c ./fpga/fpga.o
+ .debug_macro   0x00000000       0x6a ./fpga/fpga.o
+ .debug_macro   0x00000000       0x10 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x10 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x86 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x16 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x58 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x93 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x16 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x1c ./fpga/fpga.o
+ .debug_macro   0x00000000       0x10 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x10 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x22 ./fpga/fpga.o
+ .debug_macro   0x00000000       0x22 ./fpga/fpga.o
+ .note.GNU-stack
+                0x00000000        0x0 ./fpga/fpga.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .group         0x00000000        0x8 ./fpga/isr.o
+ .text          0x00000000        0x0 ./fpga/isr.o
+ .data          0x00000000        0x0 ./fpga/isr.o
+ .bss           0x00000000        0x0 ./fpga/isr.o
+ .debug_macro   0x00000000      0x15c ./fpga/isr.o
+ .debug_macro   0x00000000       0x16 ./fpga/isr.o
+ .debug_macro   0x00000000       0x35 ./fpga/isr.o
+ .debug_macro   0x00000000      0x167 ./fpga/isr.o
+ .debug_macro   0x00000000       0x35 ./fpga/isr.o
+ .debug_macro   0x00000000       0x70 ./fpga/isr.o
+ .debug_macro   0x00000000       0x34 ./fpga/isr.o
+ .debug_macro   0x00000000       0x1c ./fpga/isr.o
+ .debug_macro   0x00000000       0x5e ./fpga/isr.o
+ .debug_macro   0x00000000       0xca ./fpga/isr.o
+ .debug_macro   0x00000000      0x106 ./fpga/isr.o
+ .debug_macro   0x00000000       0x28 ./fpga/isr.o
+ .debug_macro   0x00000000      0x1e4 ./fpga/isr.o
+ .debug_macro   0x00000000       0x12 ./fpga/isr.o
+ .debug_macro   0x00000000       0x64 ./fpga/isr.o
+ .debug_macro   0x00000000       0x20 ./fpga/isr.o
+ .debug_macro   0x00000000       0x19 ./fpga/isr.o
+ .debug_macro   0x00000000       0x89 ./fpga/isr.o
+ .debug_macro   0x00000000       0x1c ./fpga/isr.o
+ .debug_macro   0x00000000       0x6a ./fpga/isr.o
+ .debug_macro   0x00000000       0x1c ./fpga/isr.o
+ .debug_macro   0x00000000       0x10 ./fpga/isr.o
+ .debug_macro   0x00000000       0x22 ./fpga/isr.o
+ .debug_macro   0x00000000       0x2e ./fpga/isr.o
+ .debug_macro   0x00000000       0x4c ./fpga/isr.o
+ .debug_macro   0x00000000       0x40 ./fpga/isr.o
+ .debug_macro   0x00000000       0x3a ./fpga/isr.o
+ .debug_macro   0x00000000       0x12 ./fpga/isr.o
+ .debug_macro   0x00000000       0x20 ./fpga/isr.o
+ .debug_macro   0x00000000       0x1c ./fpga/isr.o
+ .debug_macro   0x00000000       0x22 ./fpga/isr.o
+ .debug_macro   0x00000000       0x10 ./fpga/isr.o
+ .debug_macro   0x00000000       0x4c ./fpga/isr.o
+ .debug_macro   0x00000000       0x1c ./fpga/isr.o
+ .debug_macro   0x00000000       0x20 ./fpga/isr.o
+ .debug_macro   0x00000000       0x10 ./fpga/isr.o
+ .debug_macro   0x00000000       0x6a ./fpga/isr.o
+ .debug_macro   0x00000000      0x190 ./fpga/isr.o
+ .debug_macro   0x00000000       0x52 ./fpga/isr.o
+ .debug_macro   0x00000000       0x27 ./fpga/isr.o
+ .debug_macro   0x00000000       0x20 ./fpga/isr.o
+ .debug_macro   0x00000000      0x825 ./fpga/isr.o
+ .debug_macro   0x00000000      0x181 ./fpga/isr.o
+ .debug_macro   0x00000000       0xe6 ./fpga/isr.o
+ .debug_macro   0x00000000       0x10 ./fpga/isr.o
+ .debug_macro   0x00000000       0x10 ./fpga/isr.o
+ .debug_macro   0x00000000       0x22 ./fpga/isr.o
+ .debug_macro   0x00000000       0x22 ./fpga/isr.o
+ .debug_macro   0x00000000      0x33a ./fpga/isr.o
+ .debug_macro   0x00000000       0x16 ./fpga/isr.o
+ .debug_macro   0x00000000       0x2e ./fpga/isr.o
+ .debug_macro   0x00000000       0x16 ./fpga/isr.o
+ .debug_macro   0x00000000       0x1e ./fpga/isr.o
+ .debug_macro   0x00000000       0xd0 ./fpga/isr.o
+ .debug_macro   0x00000000       0x64 ./fpga/isr.o
+ .debug_macro   0x00000000       0x10 ./fpga/isr.o
+ .debug_macro   0x00000000      0x1d9 ./fpga/isr.o
+ .debug_macro   0x00000000       0x3f ./fpga/isr.o
+ .debug_macro   0x00000000       0x28 ./fpga/isr.o
+ .debug_macro   0x00000000       0x27 ./fpga/isr.o
+ .debug_macro   0x00000000       0x16 ./fpga/isr.o
+ .debug_macro   0x00000000       0x97 ./fpga/isr.o
+ .debug_macro   0x00000000       0x3a ./fpga/isr.o
+ .debug_macro   0x00000000       0x6a ./fpga/isr.o
+ .debug_macro   0x00000000       0x69 ./fpga/isr.o
+ .debug_macro   0x00000000       0x10 ./fpga/isr.o
+ .debug_macro   0x00000000       0x10 ./fpga/isr.o
+ .debug_macro   0x00000000       0x12 ./fpga/isr.o
+ .debug_macro   0x00000000       0x16 ./fpga/isr.o
+ .debug_macro   0x00000000       0x16 ./fpga/isr.o
+ .debug_macro   0x00000000       0x58 ./fpga/isr.o
+ .debug_macro   0x00000000       0x10 ./fpga/isr.o
+ .debug_macro   0x00000000       0x10 ./fpga/isr.o
+ .debug_macro   0x00000000       0x86 ./fpga/isr.o
+ .debug_macro   0x00000000       0x93 ./fpga/isr.o
+ .note.GNU-stack
+                0x00000000        0x0 ./fpga/isr.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_protocol.o
+ .text          0x00000000        0x0 ./communication/local_protocol.o
+ .data          0x00000000        0x0 ./communication/local_protocol.o
+ .bss           0x00000000        0x0 ./communication/local_protocol.o
+ .debug_macro   0x00000000      0x15c ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x16 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x35 ./communication/local_protocol.o
+ .debug_macro   0x00000000      0x167 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x35 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x70 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x10 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x97 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x5e ./communication/local_protocol.o
+ .debug_macro   0x00000000       0xca ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x2e ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x16 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x20 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x1e ./communication/local_protocol.o
+ .debug_macro   0x00000000       0xd0 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x64 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x10 ./communication/local_protocol.o
+ .debug_macro   0x00000000      0x1d9 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x4b ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x28 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x27 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x16 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x10 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x10 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x22 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x22 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x6e ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x3a ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x12 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x20 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x1c ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x10 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x22 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x2e ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x4c ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x1c ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x10 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x16 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x28 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x10 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x4c ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x1c ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x20 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x46 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x22 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x10 ./communication/local_protocol.o
+ .debug_macro   0x00000000      0x340 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x16 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x58 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x29 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x10 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x10 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x86 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x93 ./communication/local_protocol.o
+ .debug_macro   0x00000000       0x10 ./communication/local_protocol.o
+ .note.GNU-stack
+                0x00000000        0x0 ./communication/local_protocol.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./communication/local_socket.o
+ .text          0x00000000        0x0 ./communication/local_socket.o
+ .data          0x00000000        0x0 ./communication/local_socket.o
+ .bss           0x00000000        0x0 ./communication/local_socket.o
+ .debug_macro   0x00000000      0x832 ./communication/local_socket.o
+ .debug_macro   0x00000000      0x15c ./communication/local_socket.o
+ .debug_macro   0x00000000       0x16 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x35 ./communication/local_socket.o
+ .debug_macro   0x00000000      0x167 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x35 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x70 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x34 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x1c ./communication/local_socket.o
+ .debug_macro   0x00000000       0x5e ./communication/local_socket.o
+ .debug_macro   0x00000000       0xca ./communication/local_socket.o
+ .debug_macro   0x00000000      0x106 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x16 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x28 ./communication/local_socket.o
+ .debug_macro   0x00000000      0x1e4 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x12 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x64 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x20 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x19 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x89 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x1c ./communication/local_socket.o
+ .debug_macro   0x00000000       0x6a ./communication/local_socket.o
+ .debug_macro   0x00000000       0x1c ./communication/local_socket.o
+ .debug_macro   0x00000000       0x10 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x22 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x2e ./communication/local_socket.o
+ .debug_macro   0x00000000       0x4c ./communication/local_socket.o
+ .debug_macro   0x00000000       0x40 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x6a ./communication/local_socket.o
+ .debug_macro   0x00000000      0x190 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x52 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x20 ./communication/local_socket.o
+ .debug_macro   0x00000000      0x825 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x20 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x16 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x2e ./communication/local_socket.o
+ .debug_macro   0x00000000       0x16 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x1e ./communication/local_socket.o
+ .debug_macro   0x00000000       0xd0 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x64 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x10 ./communication/local_socket.o
+ .debug_macro   0x00000000      0x1d9 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x3f ./communication/local_socket.o
+ .debug_macro   0x00000000       0x28 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x27 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x16 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x58 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x3a ./communication/local_socket.o
+ .debug_macro   0x00000000       0x10 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x1c ./communication/local_socket.o
+ .debug_macro   0x00000000       0x4c ./communication/local_socket.o
+ .debug_macro   0x00000000       0x39 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x10 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x10 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x22 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x22 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x12 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x20 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x1c ./communication/local_socket.o
+ .debug_macro   0x00000000       0x20 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x16 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x10 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x10 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x10 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x86 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x93 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x16 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x97 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x3a ./communication/local_socket.o
+ .debug_macro   0x00000000       0x6a ./communication/local_socket.o
+ .debug_macro   0x00000000       0x69 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x10 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x10 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x12 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x16 ./communication/local_socket.o
+ .debug_macro   0x00000000       0x10 ./communication/local_socket.o
+ .note.GNU-stack
+                0x00000000        0x0 ./communication/local_socket.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .group         0x00000000        0x8 ./app/main.o
+ .text          0x00000000        0x0 ./app/main.o
+ .data          0x00000000        0x0 ./app/main.o
+ .bss           0x00000000        0x0 ./app/main.o
+ .debug_macro   0x00000000      0x832 ./app/main.o
+ .debug_macro   0x00000000      0x15c ./app/main.o
+ .debug_macro   0x00000000       0x16 ./app/main.o
+ .debug_macro   0x00000000       0x35 ./app/main.o
+ .debug_macro   0x00000000      0x167 ./app/main.o
+ .debug_macro   0x00000000       0x35 ./app/main.o
+ .debug_macro   0x00000000       0x70 ./app/main.o
+ .debug_macro   0x00000000       0x34 ./app/main.o
+ .debug_macro   0x00000000       0x1c ./app/main.o
+ .debug_macro   0x00000000       0x5e ./app/main.o
+ .debug_macro   0x00000000       0xca ./app/main.o
+ .debug_macro   0x00000000      0x106 ./app/main.o
+ .debug_macro   0x00000000       0x16 ./app/main.o
+ .debug_macro   0x00000000       0x28 ./app/main.o
+ .debug_macro   0x00000000      0x1e4 ./app/main.o
+ .debug_macro   0x00000000       0x12 ./app/main.o
+ .debug_macro   0x00000000       0x64 ./app/main.o
+ .debug_macro   0x00000000       0x20 ./app/main.o
+ .debug_macro   0x00000000       0x19 ./app/main.o
+ .debug_macro   0x00000000       0x89 ./app/main.o
+ .debug_macro   0x00000000       0x1c ./app/main.o
+ .debug_macro   0x00000000       0x6a ./app/main.o
+ .debug_macro   0x00000000       0x1c ./app/main.o
+ .debug_macro   0x00000000       0x10 ./app/main.o
+ .debug_macro   0x00000000       0x22 ./app/main.o
+ .debug_macro   0x00000000       0x2e ./app/main.o
+ .debug_macro   0x00000000       0x4c ./app/main.o
+ .debug_macro   0x00000000       0x40 ./app/main.o
+ .debug_macro   0x00000000       0x16 ./app/main.o
+ .debug_macro   0x00000000       0x20 ./app/main.o
+ .debug_macro   0x00000000       0x2e ./app/main.o
+ .debug_macro   0x00000000       0x16 ./app/main.o
+ .debug_macro   0x00000000       0x1e ./app/main.o
+ .debug_macro   0x00000000       0xd0 ./app/main.o
+ .debug_macro   0x00000000       0x64 ./app/main.o
+ .debug_macro   0x00000000       0x10 ./app/main.o
+ .debug_macro   0x00000000      0x1d9 ./app/main.o
+ .debug_macro   0x00000000       0x4b ./app/main.o
+ .debug_macro   0x00000000       0x28 ./app/main.o
+ .debug_macro   0x00000000       0x27 ./app/main.o
+ .debug_macro   0x00000000       0x6a ./app/main.o
+ .debug_macro   0x00000000      0x190 ./app/main.o
+ .debug_macro   0x00000000       0x52 ./app/main.o
+ .debug_macro   0x00000000       0x27 ./app/main.o
+ .debug_macro   0x00000000      0x825 ./app/main.o
+ .debug_macro   0x00000000       0x20 ./app/main.o
+ .debug_macro   0x00000000       0x10 ./app/main.o
+ .debug_macro   0x00000000       0x10 ./app/main.o
+ .debug_macro   0x00000000       0x22 ./app/main.o
+ .debug_macro   0x00000000       0x22 ./app/main.o
+ .debug_macro   0x00000000       0x3a ./app/main.o
+ .debug_macro   0x00000000       0x12 ./app/main.o
+ .debug_macro   0x00000000       0x20 ./app/main.o
+ .debug_macro   0x00000000       0x1c ./app/main.o
+ .debug_macro   0x00000000       0x10 ./app/main.o
+ .debug_macro   0x00000000       0x22 ./app/main.o
+ .debug_macro   0x00000000       0x10 ./app/main.o
+ .debug_macro   0x00000000       0x4c ./app/main.o
+ .debug_macro   0x00000000       0x1c ./app/main.o
+ .debug_macro   0x00000000       0x20 ./app/main.o
+ .debug_macro   0x00000000       0x10 ./app/main.o
+ .debug_macro   0x00000000       0x16 ./app/main.o
+ .debug_macro   0x00000000       0x58 ./app/main.o
+ .debug_macro   0x00000000       0x10 ./app/main.o
+ .debug_macro   0x00000000       0x10 ./app/main.o
+ .debug_macro   0x00000000       0x86 ./app/main.o
+ .debug_macro   0x00000000       0x93 ./app/main.o
+ .debug_macro   0x00000000       0x10 ./app/main.o
+ .debug_macro   0x00000000      0x340 ./app/main.o
+ .note.GNU-stack
+                0x00000000        0x0 ./app/main.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .group         0x00000000        0x8 ./app/sys_conf.o
+ .text          0x00000000        0x0 ./app/sys_conf.o
+ .data          0x00000000        0x0 ./app/sys_conf.o
+ .bss           0x00000000        0x0 ./app/sys_conf.o
+ .debug_macro   0x00000000      0x832 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x10 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x10 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x22 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x22 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x10 ./app/sys_conf.o
+ .debug_macro   0x00000000      0x173 ./app/sys_conf.o
+ .debug_macro   0x00000000      0x189 ./app/sys_conf.o
+ .debug_macro   0x00000000      0x15c ./app/sys_conf.o
+ .debug_macro   0x00000000       0x16 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x35 ./app/sys_conf.o
+ .debug_macro   0x00000000      0x167 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x35 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x70 ./app/sys_conf.o
+ .debug_macro   0x00000000       0xf4 ./app/sys_conf.o
+ .debug_macro   0x00000000       0xc3 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x1c ./app/sys_conf.o
+ .debug_macro   0x00000000       0x58 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x88 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x76 ./app/sys_conf.o
+ .debug_macro   0x00000000      0x202 ./app/sys_conf.o
+ .debug_macro   0x00000000      0x2ae ./app/sys_conf.o
+ .debug_macro   0x00000000       0xb8 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x16 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x35 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x58 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x5e ./app/sys_conf.o
+ .debug_macro   0x00000000       0xca ./app/sys_conf.o
+ .debug_macro   0x00000000      0x1b8 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x1c ./app/sys_conf.o
+ .debug_macro   0x00000000       0x22 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x6b ./app/sys_conf.o
+ .debug_macro   0x00000000       0x58 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x58 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x34 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x1c ./app/sys_conf.o
+ .debug_macro   0x00000000      0x106 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x10 ./app/sys_conf.o
+ .debug_macro   0x00000000      0x1e4 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x12 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x64 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x20 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x1c ./app/sys_conf.o
+ .debug_macro   0x00000000       0x6a ./app/sys_conf.o
+ .debug_macro   0x00000000       0x1c ./app/sys_conf.o
+ .debug_macro   0x00000000       0x10 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x22 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x2e ./app/sys_conf.o
+ .debug_macro   0x00000000       0x4c ./app/sys_conf.o
+ .debug_macro   0x00000000       0x40 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x16 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x5b ./app/sys_conf.o
+ .debug_macro   0x00000000       0x63 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x22 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x34 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x48 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x4f ./app/sys_conf.o
+ .debug_macro   0x00000000       0x16 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x10 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x35 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x10 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x35 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x19 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x18 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x19 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x10 ./app/sys_conf.o
+ .debug_macro   0x00000000       0xab ./app/sys_conf.o
+ .debug_macro   0x00000000       0x64 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x12 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x10 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x45 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x22 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x10 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x5a ./app/sys_conf.o
+ .debug_macro   0x00000000       0xa9 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x22 ./app/sys_conf.o
+ .debug_macro   0x00000000       0xbe ./app/sys_conf.o
+ .debug_macro   0x00000000       0x3a ./app/sys_conf.o
+ .debug_macro   0x00000000       0x35 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x10 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x10 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x86 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x93 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x41 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x16 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x2e ./app/sys_conf.o
+ .debug_macro   0x00000000       0x16 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x1e ./app/sys_conf.o
+ .debug_macro   0x00000000       0xd0 ./app/sys_conf.o
+ .debug_macro   0x00000000      0x239 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x45 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x28 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x27 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x16 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x3a ./app/sys_conf.o
+ .debug_macro   0x00000000       0x6a ./app/sys_conf.o
+ .debug_macro   0x00000000       0x62 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x20 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x1c ./app/sys_conf.o
+ .debug_macro   0x00000000       0x16 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x10 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x4c ./app/sys_conf.o
+ .debug_macro   0x00000000       0x1c ./app/sys_conf.o
+ .debug_macro   0x00000000       0x20 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x10 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x10 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x12 ./app/sys_conf.o
+ .debug_macro   0x00000000       0x16 ./app/sys_conf.o
+ .note.GNU-stack
+                0x00000000        0x0 ./app/sys_conf.o
+ .data          0x00000000        0x0 /home/work/rootfs/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .bss           0x00000000        0x0 /home/work/rootfs/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x00000000        0x0 /home/work/rootfs/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .text          0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/crtend.o
+ .data          0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/crtend.o
+ .bss           0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/crtend.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/crtend.o
+ .text          0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crtn.o
+ .data          0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crtn.o
+ .bss           0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crtn.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crtn.o
+ .gnu_debuglink
+                0x00000000        0xc /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+LOAD /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crti.o
+LOAD /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/crtbegin.o
+LOAD ./tool/buf_factory.o
+LOAD ./tool/key_file.o
+LOAD ./tool/list.o
+LOAD ./tool/mailbox.o
+LOAD ./tool/message.o
+LOAD ./tool/msg_factory.o
+LOAD ./tool/thread.o
+LOAD ./sample/array.o
+LOAD ./sample/position.o
+LOAD ./fpga/fpga.o
+LOAD ./fpga/isr.o
+LOAD ./communication/local_protocol.o
+LOAD ./communication/local_socket.o
+LOAD ./app/main.o
+LOAD ./app/sys_conf.o
+LOAD /home/work/rootfs/usr/lib/libglib-2.0.so
+LOAD /home/work/rootfs/usr/lib/librt.so
+LOAD /home/work/rootfs/usr/lib/libpthread.so
+START GROUP
+LOAD /home/work/rootfs/usr/lib/../../lib/libpthread.so.0
+LOAD /home/work/rootfs/usr/lib/./libpthread_nonshared.a
+END GROUP
+LOAD /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/libgcc.a
+LOAD /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/../../../../arm-linux-gnueabihf/lib/libgcc_s.so
+START GROUP
+LOAD /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/../../../../arm-linux-gnueabihf/lib/libgcc_s.so.1
+LOAD /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/libgcc.a
+END GROUP
+LOAD /home/work/rootfs/usr/lib/libc.so
+START GROUP
+LOAD /home/work/rootfs/usr/lib/../../lib/libc.so.6
+LOAD /home/work/rootfs/usr/lib/./libc_nonshared.a
+LOAD /home/work/rootfs/usr/lib/../../lib/ld-linux-armhf.so.3
+END GROUP
+LOAD /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/libgcc.a
+LOAD /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/../../../../arm-linux-gnueabihf/lib/libgcc_s.so
+START GROUP
+LOAD /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/../../../../arm-linux-gnueabihf/lib/libgcc_s.so.1
+LOAD /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/libgcc.a
+END GROUP
+LOAD /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/crtend.o
+LOAD /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crtn.o
+                0x00008000                PROVIDE (__executable_start, 0x8000)
+                0x00008134                . = (0x8000 + SIZEOF_HEADERS)
+
+.interp         0x00008134       0x19
+ *(.interp)
+ .interp        0x00008134       0x19 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+
+.note.ABI-tag   0x00008150       0x20
+ .note.ABI-tag  0x00008150       0x20 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+
+.note.gnu.build-id
+                0x00008170       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00008170       0x24 linker stubs
+
+.hash           0x00008194      0x224
+ *(.hash)
+ .hash          0x00008194      0x224 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x000083b8      0x440
+ *(.dynsym)
+ .dynsym        0x000083b8      0x440 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+
+.dynstr         0x000087f8      0x369
+ *(.dynstr)
+ .dynstr        0x000087f8      0x369 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+
+.gnu.version    0x00008b62       0x88
+ *(.gnu.version)
+ .gnu.version   0x00008b62       0x88 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+
+.gnu.version_d  0x00008bec        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+
+.gnu.version_r  0x00008bec       0x60
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00008bec       0x60 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+
+.rel.dyn        0x00008c4c       0x10
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x00008c4c        0x8 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ .rel.bss       0x00008c54        0x8 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+                0x00008c5c                PROVIDE (__rel_iplt_start, .)
+ *(.rel.iplt)
+ .rel.iplt      0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+                0x00008c5c                PROVIDE (__rel_iplt_end, .)
+                0x00008c5c                PROVIDE (__rela_iplt_start, .)
+                0x00008c5c                PROVIDE (__rela_iplt_end, .)
+
+.rela.dyn       0x00008c5c        0x0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+                0x00008c5c                PROVIDE (__rel_iplt_start, .)
+                0x00008c5c                PROVIDE (__rel_iplt_end, .)
+                0x00008c5c                PROVIDE (__rela_iplt_start, .)
+ *(.rela.iplt)
+                0x00008c5c                PROVIDE (__rela_iplt_end, .)
+
+.rel.plt        0x00008c5c      0x1b0
+ *(.rel.plt)
+ .rel.plt       0x00008c5c      0x1b0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init           0x00008e0c        0xa
+ *(SORT(.init))
+ .init          0x00008e0c        0x8 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crti.o
+                0x00008e0c                _init
+ .init          0x00008e14        0x2 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crtn.o
+
+.plt            0x00008e18      0x2a0
+ *(.plt)
+ .plt           0x00008e18      0x2a0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+                0x00008e2c                pthread_mutex_unlock@@GLIBC_2.4
+                0x00008e38                calloc@@GLIBC_2.4
+                0x00008e44                sem_wait@@GLIBC_2.4
+                0x00008e50                sem_post@@GLIBC_2.4
+                0x00008e5c                pthread_attr_destroy@@GLIBC_2.4
+                0x00008e68                read@@GLIBC_2.4
+                0x00008e74                free@@GLIBC_2.4
+                0x00008e80                pthread_mutex_lock@@GLIBC_2.4
+                0x00008e8c                pthread_detach@@GLIBC_2.4
+                0x00008e98                g_key_file_new
+                0x00008ea4                pthread_self@@GLIBC_2.4
+                0x00008eb0                memcpy@@GLIBC_2.4
+                0x00008ebc                pthread_mutex_init@@GLIBC_2.4
+                0x00008ec8                signal@@GLIBC_2.4
+                0x00008ed4                pthread_attr_setstacksize@@GLIBC_2.4
+                0x00008ee0                sleep@@GLIBC_2.4
+                0x00008eec                sysconf@@GLIBC_2.4
+                0x00008ef8                perror@@GLIBC_2.4
+                0x00008f04                usleep@@GLIBC_2.4
+                0x00008f10                pthread_attr_setschedparam@@GLIBC_2.4
+                0x00008f1c                gettimeofday@@GLIBC_2.4
+                0x00008f28                pthread_sigmask@@GLIBC_2.4
+                0x00008f34                pthread_create@@GLIBC_2.4
+                0x00008f40                sched_get_priority_max@@GLIBC_2.4
+                0x00008f4c                malloc@@GLIBC_2.4
+                0x00008f58                sigaddset@@GLIBC_2.4
+                0x00008f64                __libc_start_main@@GLIBC_2.4
+                0x00008f70                pthread_attr_setschedpolicy@@GLIBC_2.4
+                0x00008f8c                open@@GLIBC_2.4
+                0x00008f98                getpid@@GLIBC_2.4
+                0x00008fa4                exit@@GLIBC_2.4
+                0x00008fb0                mmap@@GLIBC_2.4
+                0x00008fbc                mq_open@@GLIBC_2.4
+                0x00008fc8                fprintf@@GLIBC_2.4
+                0x00008fd4                fcntl@@GLIBC_2.4
+                0x00008fe0                g_key_file_load_from_file
+                0x00008fec                pthread_attr_init@@GLIBC_2.4
+                0x00008ff8                pthread_attr_setaffinity_np@@GLIBC_2.4
+                0x00009004                sem_init@@GLIBC_2.4
+                0x00009010                memset@@GLIBC_2.4
+                0x0000901c                g_key_file_set_list_separator
+                0x00009028                write@@GLIBC_2.4
+                0x00009034                g_log
+                0x00009040                shutdown@@GLIBC_2.4
+                0x0000904c                sigemptyset@@GLIBC_2.4
+                0x00009058                mq_receive@@GLIBC_2.4
+                0x00009064                socket@@GLIBC_2.4
+                0x00009070                sigwaitinfo@@GLIBC_2.4
+                0x0000907c                abort@@GLIBC_2.4
+                0x00009088                g_key_file_get_integer
+                0x00009094                close@@GLIBC_2.4
+                0x000090a0                mq_send@@GLIBC_2.4
+                0x000090ac                connect@@GLIBC_2.4
+
+.iplt           0x000090b8        0x0
+ *(.iplt)
+ .iplt          0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+
+.text           0x000090b8     0x3228
+ *(.text.unlikely .text.*_unlikely)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x000090b8       0x38 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+                0x000090b8                _start
+ .text          0x000090f0       0x18 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crti.o
+ .text          0x00009108       0x88 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/crtbegin.o
+ .text.create_buf_factory
+                0x00009190      0x260 ./tool/buf_factory.o
+                0x00009190                create_buf_factory
+ .text.buf_factory_produce
+                0x000093f0       0x80 ./tool/buf_factory.o
+                0x000093f0                buf_factory_produce
+ .text.buf_factory_recycle
+                0x00009470       0x3c ./tool/buf_factory.o
+                0x00009470                buf_factory_recycle
+ .text.key_file_open
+                0x000094ac       0x6c ./tool/key_file.o
+                0x000094ac                key_file_open
+ .text.key_file_get_int
+                0x00009518       0x4c ./tool/key_file.o
+                0x00009518                key_file_get_int
+ .text.init_list_head
+                0x00009564       0x24 ./tool/list.o
+                0x00009564                init_list_head
+ .text._list_add
+                0x00009588       0x30 ./tool/list.o
+ .text.list_add_tail
+                0x000095b8       0x20 ./tool/list.o
+                0x000095b8                list_add_tail
+ .text._list_del
+                0x000095d8       0x20 ./tool/list.o
+ .text.list_del
+                0x000095f8       0x2c ./tool/list.o
+                0x000095f8                list_del
+ .text.list_empty
+                0x00009624       0x24 ./tool/list.o
+                0x00009624                list_empty
+ .text.mailbox_create
+                0x00009648       0x70 ./tool/mailbox.o
+                0x00009648                mailbox_create
+ .text.mailbox_post
+                0x000096b8       0x70 ./tool/mailbox.o
+                0x000096b8                mailbox_post
+ .text.mailbox_pend
+                0x00009728       0x74 ./tool/mailbox.o
+                0x00009728                mailbox_pend
+ .text.msg_set_data
+                0x0000979c       0x84 ./tool/message.o
+                0x0000979c                msg_set_data
+ .text.msg_get_data
+                0x00009820       0x6c ./tool/message.o
+                0x00009820                msg_get_data
+ .text.msg_get_data_num
+                0x0000988c       0x28 ./tool/message.o
+                0x0000988c                msg_get_data_num
+ .text.msg_set_queue
+                0x000098b4       0x30 ./tool/message.o
+                0x000098b4                msg_set_queue
+ .text.msg_set_prio
+                0x000098e4       0x30 ./tool/message.o
+                0x000098e4                msg_set_prio
+ .text.msg_clear
+                0x00009914       0x40 ./tool/message.o
+                0x00009914                msg_clear
+ .text.create_msg_factory
+                0x00009954      0x36c ./tool/msg_factory.o
+                0x00009954                create_msg_factory
+ .text.msg_factory_produce
+                0x00009cc0       0xe4 ./tool/msg_factory.o
+                0x00009cc0                msg_factory_produce
+ .text.msg_factory_recycle
+                0x00009da4       0xd8 ./tool/msg_factory.o
+                0x00009da4                msg_factory_recycle
+ .text.msg_factory_cast
+                0x00009e7c       0x20 ./tool/msg_factory.o
+                0x00009e7c                msg_factory_cast
+ .text.add_new_thread_prepare
+                0x00009e9c      0x24c ./tool/thread.o
+ .text.add_new_thread
+                0x0000a0e8      0x10c ./tool/thread.o
+                0x0000a0e8                add_new_thread
+ .text.search_count_array
+                0x0000a1f4       0xb4 ./sample/array.o
+                0x0000a1f4                search_count_array
+ .text.search_wheelcode_array
+                0x0000a2a8      0x290 ./sample/array.o
+                0x0000a2a8                search_wheelcode_array
+ .text.write_array
+                0x0000a538       0xcc ./sample/array.o
+                0x0000a538                write_array
+ .text.clear_array
+                0x0000a604       0xd8 ./sample/array.o
+                0x0000a604                clear_array
+ .text.trig1_search_tsk
+                0x0000a6dc       0xa4 ./sample/array.o
+                0x0000a6dc                trig1_search_tsk
+ .text.trig2_search_tsk
+                0x0000a780       0x6c ./sample/array.o
+                0x0000a780                trig2_search_tsk
+ .text.array_buf_init
+                0x0000a7ec       0xb0 ./sample/array.o
+                0x0000a7ec                array_buf_init
+ .text.dis_c1_kt1_tsk
+                0x0000a89c      0x148 ./sample/position.o
+                0x0000a89c                dis_c1_kt1_tsk
+ .text.dis_kp1_kft1_tsk
+                0x0000a9e4      0x184 ./sample/position.o
+                0x0000a9e4                dis_kp1_kft1_tsk
+ .text.dis_c1_kt2_tsk
+                0x0000ab68      0x148 ./sample/position.o
+                0x0000ab68                dis_c1_kt2_tsk
+ .text.dis_kp2_kft2_tsk
+                0x0000acb0      0x184 ./sample/position.o
+                0x0000acb0                dis_kp2_kft2_tsk
+ .text.write_kp1_array_tsk
+                0x0000ae34       0xc8 ./sample/position.o
+                0x0000ae34                write_kp1_array_tsk
+ .text.write_kp2_array_tsk
+                0x0000aefc       0xc8 ./sample/position.o
+                0x0000aefc                write_kp2_array_tsk
+ .text.position_context_init
+                0x0000afc4      0x1b8 ./sample/position.o
+                0x0000afc4                position_context_init
+ .text.fpga_context_init
+                0x0000b17c      0x16c ./fpga/fpga.o
+                0x0000b17c                fpga_context_init
+ .text.fpga_get_current_code
+                0x0000b2e8       0x98 ./fpga/fpga.o
+                0x0000b2e8                fpga_get_current_code
+ .text.kick1_isr_tsk
+                0x0000b380      0x308 ./fpga/isr.o
+                0x0000b380                kick1_isr_tsk
+ .text.kick2_isr_tsk
+                0x0000b688      0x298 ./fpga/isr.o
+                0x0000b688                kick2_isr_tsk
+ .text.recv_handshake_cmd
+                0x0000b920       0x7c ./communication/local_protocol.o
+                0x0000b920                recv_handshake_cmd
+ .text.recv_reset_cmd
+                0x0000b99c       0x68 ./communication/local_protocol.o
+                0x0000b99c                recv_reset_cmd
+ .text.recv_pos_test_cmd
+                0x0000ba04      0x194 ./communication/local_protocol.o
+                0x0000ba04                recv_pos_test_cmd
+ .text.recv_sample_result
+                0x0000bb98      0x12c ./communication/local_protocol.o
+                0x0000bb98                recv_sample_result
+ .text.local_cmd_analyze
+                0x0000bcc4       0x74 ./communication/local_protocol.o
+                0x0000bcc4                local_cmd_analyze
+ .text.local_connect_tsk
+                0x0000bd38      0x104 ./communication/local_socket.o
+                0x0000bd38                local_connect_tsk
+ .text.local_send_tsk
+                0x0000be3c       0xc8 ./communication/local_socket.o
+                0x0000be3c                local_send_tsk
+ .text.local_recv_tsk
+                0x0000bf04      0x138 ./communication/local_socket.o
+                0x0000bf04                local_recv_tsk
+ .text.local_socket_init
+                0x0000c03c       0x94 ./communication/local_socket.o
+                0x0000c03c                local_socket_init
+ .text.main     0x0000c0d0       0x38 ./app/main.o
+                0x0000c0d0                main
+ .text.sc_conf_load
+                0x0000c108       0x60 ./app/sys_conf.o
+                0x0000c108                sc_conf_load
+ .text.sc_system_init
+                0x0000c168      0x130 ./app/sys_conf.o
+                0x0000c168                sc_system_init
+ .text          0x0000c298       0x48 /home/work/rootfs/usr/lib/./libc_nonshared.a(elf-init.oS)
+                0x0000c298                __libc_csu_init
+                0x0000c2dc                __libc_csu_fini
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.fini           0x0000c2e0        0x6
+ *(SORT(.fini))
+ .fini          0x0000c2e0        0x4 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crti.o
+                0x0000c2e0                _fini
+ .fini          0x0000c2e4        0x2 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crtn.o
+                0x0000c2e6                PROVIDE (__etext, .)
+                0x0000c2e6                PROVIDE (_etext, .)
+                0x0000c2e6                PROVIDE (etext, .)
+
+.rodata         0x0000c2e8      0x4e4
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0000c2e8       0x48 ./tool/buf_factory.o
+ .rodata        0x0000c330       0x5c ./tool/mailbox.o
+ .rodata        0x0000c38c       0x48 ./tool/msg_factory.o
+ .rodata        0x0000c3d4       0xec ./tool/thread.o
+ .rodata        0x0000c4c0       0x10 ./sample/array.o
+ .rodata        0x0000c4d0       0xe8 ./sample/position.o
+ .rodata        0x0000c5b8       0x58 ./fpga/fpga.o
+ .rodata        0x0000c610       0x28 ./fpga/isr.o
+ .rodata        0x0000c638       0x1c ./communication/local_protocol.o
+ .rodata        0x0000c654       0x94 ./communication/local_socket.o
+ .rodata        0x0000c6e8       0xe4 ./app/sys_conf.o
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000c7cc                PROVIDE (__exidx_start, .)
+
+.ARM.exidx      0x0000c7cc        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000c7cc        0x8 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+                0x0000c7d4                PROVIDE (__exidx_end, .)
+
+.eh_frame_hdr   0x0000c7d4        0x0
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crtn.o
+
+.eh_frame       0x0000c7d4        0x4
+ *(.eh_frame)
+ .eh_frame      0x0000c7d4        0x4 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/crtend.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000c7d8                . = (ALIGN (0x8000) - ((0x8000 - .) & 0x7fff))
+                0x000147d8                . = DATA_SEGMENT_ALIGN (0x8000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x000147d8        0x0
+                0x000147d8                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x000147d8                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x000147d8        0x4
+                0x000147d8                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x000147d8        0x4 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/crtbegin.o
+                0x000147dc                PROVIDE (__init_array_end, .)
+
+.fini_array     0x000147dc        0x4
+                0x000147dc                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x000147dc        0x4 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/crtbegin.o
+                0x000147e0                PROVIDE (__fini_array_end, .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x000147e0        0x4
+ *(.jcr)
+ .jcr           0x000147e0        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/crtbegin.o
+ .jcr           0x000147e0        0x4 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/crtend.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x000147e4      0x100
+ *(.dynamic)
+ .dynamic       0x000147e4      0x100 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+                0x000147e4                _DYNAMIC
+                0x000148e4                . = DATA_SEGMENT_RELRO_END (., 0x0)
+
+.got            0x000148e4       0xe8
+ *(.got.plt)
+ .got.plt       0x000148e4       0xe4 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+                0x000148e4                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ .igot.plt      0x00000000        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+ *(.got)
+ .got           0x000149c8        0x4 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+ *(.igot)
+
+.data           0x000149cc       0x3c
+                0x000149cc                PROVIDE (__data_start, .)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.g_msg_ops
+                0x000149cc       0x14 ./tool/msg_factory.o
+                0x000149cc                g_msg_ops
+ .data.pos_report_head
+                0x000149e0        0x8 ./sample/position.o
+ .data.item.6018
+                0x000149e8        0x4 ./sample/position.o
+ .data.item.6006
+                0x000149ec        0x4 ./sample/position.o
+ .data.item.5992
+                0x000149f0        0x4 ./sample/position.o
+ .data.item.5980
+                0x000149f4        0x4 ./sample/position.o
+ .data.handshake_head
+                0x000149f8        0x8 ./communication/local_protocol.o
+ .data.reset_head
+                0x00014a00        0x8 ./communication/local_protocol.o
+
+.tm_clone_table
+                0x00014a08        0x0
+ .tm_clone_table
+                0x00014a08        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/crtbegin.o
+ .tm_clone_table
+                0x00014a08        0x0 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/crtend.o
+
+.data1
+ *(.data1)
+                0x00014a08                _edata = .
+                0x00014a08                PROVIDE (edata, .)
+                0x00014a08                . = .
+                0x00014a08                __bss_start = .
+                0x00014a08                __bss_start__ = .
+
+.bss            0x00014a08      0x29c
+ *(.dynbss)
+ .dynbss        0x00014a08        0x4 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+                0x00014a08                stderr@@GLIBC_2.4
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00014a0c        0x1 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/crtbegin.o
+ *fill*         0x00014a0d        0x3 
+ .bss.keyfile   0x00014a10        0x4 ./tool/key_file.o
+ .bss.g_msg_factory
+                0x00014a14        0x4 ./tool/msg_factory.o
+ .bss.mutex_k1_list
+                0x00014a18       0x18 ./sample/array.o
+ .bss.mutex_k2_list
+                0x00014a30       0x18 ./sample/array.o
+ .bss.g_pos_kick1_mbx_id
+                0x00014a48        0x4 ./sample/array.o
+                0x00014a48                g_pos_kick1_mbx_id
+ .bss.g_pos_kick2_mbx_id
+                0x00014a4c        0x4 ./sample/array.o
+                0x00014a4c                g_pos_kick2_mbx_id
+ .bss.cur_count_kt1
+                0x00014a50        0x4 ./sample/array.o
+                0x00014a50                cur_count_kt1
+ .bss.g_c1_sample_buf
+                0x00014a54        0x4 ./sample/array.o
+                0x00014a54                g_c1_sample_buf
+ .bss.cur_wheel_code.6371
+                0x00014a58        0x8 ./sample/array.o
+ .bss.cur_wheel_code.6363
+                0x00014a60        0x8 ./sample/array.o
+ .bss.g_pos_kt1_mbx_id
+                0x00014a68        0x4 ./sample/position.o
+                0x00014a68                g_pos_kt1_mbx_id
+ .bss.g_pos_kt2_mbx_id
+                0x00014a6c        0x4 ./sample/position.o
+                0x00014a6c                g_pos_kt2_mbx_id
+ .bss.g_pos_kp1_mbx_id
+                0x00014a70        0x4 ./sample/position.o
+                0x00014a70                g_pos_kp1_mbx_id
+ .bss.g_pos_kp2_mbx_id
+                0x00014a74        0x4 ./sample/position.o
+                0x00014a74                g_pos_kp2_mbx_id
+ .bss.g_pos_kft1_mbx_id
+                0x00014a78        0x4 ./sample/position.o
+                0x00014a78                g_pos_kft1_mbx_id
+ .bss.g_pos_kft2_mbx_id
+                0x00014a7c        0x4 ./sample/position.o
+                0x00014a7c                g_pos_kft2_mbx_id
+ .bss.kp2_sample_count.6047
+                0x00014a80        0x4 ./sample/position.o
+ .bss.kp1_sample_count.6037
+                0x00014a84        0x4 ./sample/position.o
+ .bss.cur_time.6024
+                0x00014a88        0x8 ./sample/position.o
+ .bss.dis.6017  0x00014a90        0x4 ./sample/position.o
+ .bss.dis.6005  0x00014a94        0x4 ./sample/position.o
+ .bss.cur_time.5997
+                0x00014a98        0x8 ./sample/position.o
+ .bss.dis.5991  0x00014aa0        0x4 ./sample/position.o
+ .bss.dis.5979  0x00014aa4        0x4 ./sample/position.o
+ .bss.fpga_base
+                0x00014aa8        0x4 ./fpga/fpga.o
+                0x00014aa8                fpga_base
+ .bss.kick_fd   0x00014aac        0x4 ./fpga/fpga.o
+                0x00014aac                kick_fd
+ .bss.kick1_wheel_code
+                0x00014ab0        0x8 ./fpga/isr.o
+ .bss.kick2_wheel_code
+                0x00014ab8        0x8 ./fpga/isr.o
+ .bss.kt1_wheel_code
+                0x00014ac0        0x8 ./fpga/isr.o
+ .bss.kt2_wheel_code
+                0x00014ac8        0x8 ./fpga/isr.o
+ .bss.kp1_time  0x00014ad0        0x8 ./fpga/isr.o
+ .bss.kp2_time  0x00014ad8        0x8 ./fpga/isr.o
+ .bss.kft1_time
+                0x00014ae0        0x8 ./fpga/isr.o
+ .bss.kft2_time
+                0x00014ae8        0x8 ./fpga/isr.o
+ .bss.g_sys_reset_flag
+                0x00014af0        0x4 ./communication/local_protocol.o
+                0x00014af0                g_sys_reset_flag
+ .bss.version   0x00014af4       0x20 ./communication/local_protocol.o
+ .bss.connect_fd
+                0x00014b14        0x4 ./communication/local_socket.o
+ .bss.connect_status
+                0x00014b18        0x4 ./communication/local_socket.o
+ .bss.g_local_mbx_id
+                0x00014b1c        0x4 ./communication/local_socket.o
+                0x00014b1c                g_local_mbx_id
+ .bss.gsem_link
+                0x00014b20       0x10 ./communication/local_socket.o
+ .bss.SrvCmd_str
+                0x00014b30        0xc ./communication/local_socket.o
+ *(COMMON)
+ COMMON         0x00014b3c       0x18 ./sample/array.o
+                0x00014b3c                g_k2_sample_list
+                0x00014b48                g_k1_sample_list
+ COMMON         0x00014b54       0xb4 ./sample/position.o
+                0x00014b54                gsem_upload_pos
+                0x00014b64                g_c1_kt2_list
+                0x00014b70                mutex_kp2_kft2_list
+                0x00014b88                mutex_kp1_kft1_list
+                0x00014ba0                mutex_c1_kt2_list
+                0x00014bb8                g_c1_kt1_list
+                0x00014bc4                g_kp1_kft1_list
+                0x00014bd0                g_kp2_kft2_buf
+                0x00014bd4                g_kp1_kft1_buf
+                0x00014bd8                mutex_c1_kt1_list
+                0x00014bf0                g_c1_kt2_buf
+                0x00014bf4                g_c1_kt1_buf
+                0x00014bf8                g_kp2_kft2_list
+                0x00014c04                upload_pos_select
+ COMMON         0x00014c08       0x6e ./communication/local_socket.o
+                0x00014c08                srv_addr
+ *fill*         0x00014c76        0x2 
+ COMMON         0x00014c78       0x2c ./app/sys_conf.o
+                0x00014c78                g_sys_config
+                0x00014ca4                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x00014ca4                _bss_end__ = .
+                0x00014ca4                __bss_end__ = .
+                0x00014ca4                . = ALIGN (0x4)
+                0x00014ca4                . = ALIGN (0x4)
+                0x00014ca4                __end__ = .
+                0x00014ca4                _end = .
+                0x00014ca4                PROVIDE (end, .)
+                0x00014ca4                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x68
+ *(.comment)
+ .comment       0x00000000       0x68 ./tool/buf_factory.o
+                                 0x69 (size before relaxing)
+ .comment       0x00000000       0x69 ./tool/key_file.o
+ .comment       0x00000000       0x69 ./tool/list.o
+ .comment       0x00000000       0x69 ./tool/mailbox.o
+ .comment       0x00000000       0x69 ./tool/message.o
+ .comment       0x00000000       0x69 ./tool/msg_factory.o
+ .comment       0x00000000       0x69 ./tool/thread.o
+ .comment       0x00000000       0x69 ./sample/array.o
+ .comment       0x00000000       0x69 ./sample/position.o
+ .comment       0x00000000       0x69 ./fpga/fpga.o
+ .comment       0x00000000       0x69 ./fpga/isr.o
+ .comment       0x00000000       0x69 ./communication/local_protocol.o
+ .comment       0x00000000       0x69 ./communication/local_socket.o
+ .comment       0x00000000       0x69 ./app/main.o
+ .comment       0x00000000       0x69 ./app/sys_conf.o
+
+.ARM.attributes
+                0x00000000       0x39
+ .ARM.attributes
+                0x00000000       0x35 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crt1.o
+ .ARM.attributes
+                0x00000035       0x37 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crti.o
+ .ARM.attributes
+                0x0000006c       0x35 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/crtbegin.o
+ .ARM.attributes
+                0x000000a1       0x42 ./tool/buf_factory.o
+ .ARM.attributes
+                0x000000e3       0x42 ./tool/key_file.o
+ .ARM.attributes
+                0x00000125       0x42 ./tool/list.o
+ .ARM.attributes
+                0x00000167       0x42 ./tool/mailbox.o
+ .ARM.attributes
+                0x000001a9       0x42 ./tool/message.o
+ .ARM.attributes
+                0x000001eb       0x42 ./tool/msg_factory.o
+ .ARM.attributes
+                0x0000022d       0x42 ./tool/thread.o
+ .ARM.attributes
+                0x0000026f       0x42 ./sample/array.o
+ .ARM.attributes
+                0x000002b1       0x42 ./sample/position.o
+ .ARM.attributes
+                0x000002f3       0x42 ./fpga/fpga.o
+ .ARM.attributes
+                0x00000335       0x42 ./fpga/isr.o
+ .ARM.attributes
+                0x00000377       0x42 ./communication/local_protocol.o
+ .ARM.attributes
+                0x000003b9       0x42 ./communication/local_socket.o
+ .ARM.attributes
+                0x000003fb       0x42 ./app/main.o
+ .ARM.attributes
+                0x0000043d       0x42 ./app/sys_conf.o
+ .ARM.attributes
+                0x0000047f       0x37 /home/work/rootfs/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .ARM.attributes
+                0x000004b6       0x35 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/crtend.o
+ .ARM.attributes
+                0x000004eb       0x37 /home/work/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/../arm-linux-gnueabihf/libc/usr/lib/arm-linux-gnueabihf/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x360
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 ./tool/buf_factory.o
+ .debug_aranges
+                0x00000030       0x48 ./tool/key_file.o
+ .debug_aranges
+                0x00000078       0x50 ./tool/list.o
+ .debug_aranges
+                0x000000c8       0x40 ./tool/mailbox.o
+ .debug_aranges
+                0x00000108       0x48 ./tool/message.o
+ .debug_aranges
+                0x00000150       0x38 ./tool/msg_factory.o
+ .debug_aranges
+                0x00000188       0x28 ./tool/thread.o
+ .debug_aranges
+                0x000001b0       0x50 ./sample/array.o
+ .debug_aranges
+                0x00000200       0x50 ./sample/position.o
+ .debug_aranges
+                0x00000250       0x28 ./fpga/fpga.o
+ .debug_aranges
+                0x00000278       0x28 ./fpga/isr.o
+ .debug_aranges
+                0x000002a0       0x40 ./communication/local_protocol.o
+ .debug_aranges
+                0x000002e0       0x38 ./communication/local_socket.o
+ .debug_aranges
+                0x00000318       0x20 ./app/main.o
+ .debug_aranges
+                0x00000338       0x28 ./app/sys_conf.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x63b3
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5ad ./tool/buf_factory.o
+ .debug_info    0x000005ad      0x3d3 ./tool/key_file.o
+ .debug_info    0x00000980      0x1e6 ./tool/list.o
+ .debug_info    0x00000b66      0x796 ./tool/mailbox.o
+ .debug_info    0x000012fc      0x493 ./tool/message.o
+ .debug_info    0x0000178f      0x797 ./tool/msg_factory.o
+ .debug_info    0x00001f26      0xa9b ./tool/thread.o
+ .debug_info    0x000029c1      0x86b ./sample/array.o
+ .debug_info    0x0000322c      0xd02 ./sample/position.o
+ .debug_info    0x00003f2e      0x410 ./fpga/fpga.o
+ .debug_info    0x0000433e      0xab5 ./fpga/isr.o
+ .debug_info    0x00004df3      0x881 ./communication/local_protocol.o
+ .debug_info    0x00005674      0x843 ./communication/local_socket.o
+ .debug_info    0x00005eb7       0xdc ./app/main.o
+ .debug_info    0x00005f93      0x420 ./app/sys_conf.o
+
+.debug_abbrev   0x00000000     0x1305
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x14b ./tool/buf_factory.o
+ .debug_abbrev  0x0000014b       0xfb ./tool/key_file.o
+ .debug_abbrev  0x00000246       0xdf ./tool/list.o
+ .debug_abbrev  0x00000325      0x138 ./tool/mailbox.o
+ .debug_abbrev  0x0000045d       0xf5 ./tool/message.o
+ .debug_abbrev  0x00000552      0x1c3 ./tool/msg_factory.o
+ .debug_abbrev  0x00000715      0x16f ./tool/thread.o
+ .debug_abbrev  0x00000884      0x1ad ./sample/array.o
+ .debug_abbrev  0x00000a31      0x1c1 ./sample/position.o
+ .debug_abbrev  0x00000bf2      0x124 ./fpga/fpga.o
+ .debug_abbrev  0x00000d16      0x15b ./fpga/isr.o
+ .debug_abbrev  0x00000e71      0x164 ./communication/local_protocol.o
+ .debug_abbrev  0x00000fd5      0x19a ./communication/local_socket.o
+ .debug_abbrev  0x0000116f       0x92 ./app/main.o
+ .debug_abbrev  0x00001201      0x104 ./app/sys_conf.o
+
+.debug_line     0x00000000     0x56c8
+ *(.debug_line)
+ .debug_line    0x00000000      0x4ea ./tool/buf_factory.o
+ .debug_line    0x000004ea      0x986 ./tool/key_file.o
+ .debug_line    0x00000e70       0xb6 ./tool/list.o
+ .debug_line    0x00000f26      0x4dc ./tool/mailbox.o
+ .debug_line    0x00001402      0x259 ./tool/message.o
+ .debug_line    0x0000165b      0x50b ./tool/msg_factory.o
+ .debug_line    0x00001b66      0x4c1 ./tool/thread.o
+ .debug_line    0x00002027      0x6c2 ./sample/array.o
+ .debug_line    0x000026e9      0x6b4 ./sample/position.o
+ .debug_line    0x00002d9d      0x57e ./fpga/fpga.o
+ .debug_line    0x0000331b      0x680 ./fpga/isr.o
+ .debug_line    0x0000399b      0x5d5 ./communication/local_protocol.o
+ .debug_line    0x00003f70      0x70d ./communication/local_socket.o
+ .debug_line    0x0000467d      0x5d4 ./app/main.o
+ .debug_line    0x00004c51      0xa77 ./app/sys_conf.o
+
+.debug_frame    0x00000000      0x8b4
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x70 ./tool/buf_factory.o
+ .debug_frame   0x00000070       0xd0 ./tool/key_file.o
+ .debug_frame   0x00000140       0xe0 ./tool/list.o
+ .debug_frame   0x00000220       0xb0 ./tool/mailbox.o
+ .debug_frame   0x000002d0       0xb8 ./tool/message.o
+ .debug_frame   0x00000388       0x8c ./tool/msg_factory.o
+ .debug_frame   0x00000414       0x50 ./tool/thread.o
+ .debug_frame   0x00000464       0xf4 ./sample/array.o
+ .debug_frame   0x00000558       0xf0 ./sample/position.o
+ .debug_frame   0x00000648       0x54 ./fpga/fpga.o
+ .debug_frame   0x0000069c       0x54 ./fpga/isr.o
+ .debug_frame   0x000006f0       0xb4 ./communication/local_protocol.o
+ .debug_frame   0x000007a4       0x94 ./communication/local_socket.o
+ .debug_frame   0x00000838       0x30 ./app/main.o
+ .debug_frame   0x00000868       0x4c ./app/sys_conf.o
+
+.debug_str      0x00000000    0x1ad84
+ *(.debug_str)
+ .debug_str     0x00000000     0x6fe9 ./tool/buf_factory.o
+                               0x7178 (size before relaxing)
+ .debug_str     0x00006fe9     0xadba ./tool/key_file.o
+                              0x10eed (size before relaxing)
+ .debug_str     0x00011da3       0x51 ./tool/list.o
+                               0x2305 (size before relaxing)
+ .debug_str     0x00011df4      0xa19 ./tool/mailbox.o
+                               0x7bda (size before relaxing)
+ .debug_str     0x0001280d       0x6a ./tool/message.o
+                               0x298e (size before relaxing)
+ .debug_str     0x00012877       0xa0 ./tool/msg_factory.o
+                               0x724a (size before relaxing)
+ .debug_str     0x00012917     0x4ff5 ./tool/thread.o
+                               0xd73d (size before relaxing)
+ .debug_str     0x0001790c     0x10d1 ./sample/array.o
+                               0x8eef (size before relaxing)
+ .debug_str     0x000189dd      0x2eb ./sample/position.o
+                               0x8390 (size before relaxing)
+ .debug_str     0x00018cc8      0x379 ./fpga/fpga.o
+                               0xd3a0 (size before relaxing)
+ .debug_str     0x00019041      0x446 ./fpga/isr.o
+                               0xd699 (size before relaxing)
+ .debug_str     0x00019487       0xf7 ./communication/local_protocol.o
+                               0x7937 (size before relaxing)
+ .debug_str     0x0001957e     0x17ae ./communication/local_socket.o
+                               0xd570 (size before relaxing)
+ .debug_str     0x0001ad2c       0x1d ./app/main.o
+                               0xbd06 (size before relaxing)
+ .debug_str     0x0001ad49       0x3b ./app/sys_conf.o
+                              0x11ea4 (size before relaxing)
+
+.debug_loc      0x00000000      0xddf
+ *(.debug_loc)
+ .debug_loc     0x00000000       0xa8 ./tool/buf_factory.o
+ .debug_loc     0x000000a8      0x150 ./tool/key_file.o
+ .debug_loc     0x000001f8      0x188 ./tool/list.o
+ .debug_loc     0x00000380      0x118 ./tool/mailbox.o
+ .debug_loc     0x00000498      0x150 ./tool/message.o
+ .debug_loc     0x000005e8       0xe0 ./tool/msg_factory.o
+ .debug_loc     0x000006c8       0x74 ./tool/thread.o
+ .debug_loc     0x0000073c      0x194 ./sample/array.o
+ .debug_loc     0x000008d0      0x194 ./sample/position.o
+ .debug_loc     0x00000a64       0x72 ./fpga/fpga.o
+ .debug_loc     0x00000ad6       0x72 ./fpga/isr.o
+ .debug_loc     0x00000b48      0x119 ./communication/local_protocol.o
+ .debug_loc     0x00000c61       0xe2 ./communication/local_socket.o
+ .debug_loc     0x00000d43       0x38 ./app/main.o
+ .debug_loc     0x00000d7b       0x64 ./app/sys_conf.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x270
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x20 ./tool/buf_factory.o
+ .debug_ranges  0x00000020       0x38 ./tool/key_file.o
+ .debug_ranges  0x00000058       0x40 ./tool/list.o
+ .debug_ranges  0x00000098       0x30 ./tool/mailbox.o
+ .debug_ranges  0x000000c8       0x38 ./tool/message.o
+ .debug_ranges  0x00000100       0x28 ./tool/msg_factory.o
+ .debug_ranges  0x00000128       0x18 ./tool/thread.o
+ .debug_ranges  0x00000140       0x40 ./sample/array.o
+ .debug_ranges  0x00000180       0x40 ./sample/position.o
+ .debug_ranges  0x000001c0       0x18 ./fpga/fpga.o
+ .debug_ranges  0x000001d8       0x18 ./fpga/isr.o
+ .debug_ranges  0x000001f0       0x30 ./communication/local_protocol.o
+ .debug_ranges  0x00000220       0x28 ./communication/local_socket.o
+ .debug_ranges  0x00000248       0x10 ./app/main.o
+ .debug_ranges  0x00000258       0x18 ./app/sys_conf.o
+
+.debug_macro    0x00000000     0xce8d
+ *(.debug_macro)
+ .debug_macro   0x00000000      0x2f8 ./tool/buf_factory.o
+ .debug_macro   0x000002f8      0x832 ./tool/buf_factory.o
+ .debug_macro   0x00000b2a       0x10 ./tool/buf_factory.o
+ .debug_macro   0x00000b3a       0x10 ./tool/buf_factory.o
+ .debug_macro   0x00000b4a       0x22 ./tool/buf_factory.o
+ .debug_macro   0x00000b6c       0x22 ./tool/buf_factory.o
+ .debug_macro   0x00000b8e      0x15c ./tool/buf_factory.o
+ .debug_macro   0x00000cea       0x16 ./tool/buf_factory.o
+ .debug_macro   0x00000d00       0x35 ./tool/buf_factory.o
+ .debug_macro   0x00000d35      0x167 ./tool/buf_factory.o
+ .debug_macro   0x00000e9c       0x35 ./tool/buf_factory.o
+ .debug_macro   0x00000ed1       0x70 ./tool/buf_factory.o
+ .debug_macro   0x00000f41       0x10 ./tool/buf_factory.o
+ .debug_macro   0x00000f51       0x97 ./tool/buf_factory.o
+ .debug_macro   0x00000fe8       0x5e ./tool/buf_factory.o
+ .debug_macro   0x00001046       0xca ./tool/buf_factory.o
+ .debug_macro   0x00001110       0x2e ./tool/buf_factory.o
+ .debug_macro   0x0000113e       0x16 ./tool/buf_factory.o
+ .debug_macro   0x00001154       0x20 ./tool/buf_factory.o
+ .debug_macro   0x00001174       0x1e ./tool/buf_factory.o
+ .debug_macro   0x00001192       0xd0 ./tool/buf_factory.o
+ .debug_macro   0x00001262       0x64 ./tool/buf_factory.o
+ .debug_macro   0x000012c6       0x10 ./tool/buf_factory.o
+ .debug_macro   0x000012d6      0x1d9 ./tool/buf_factory.o
+ .debug_macro   0x000014af       0x4b ./tool/buf_factory.o
+ .debug_macro   0x000014fa       0x28 ./tool/buf_factory.o
+ .debug_macro   0x00001522       0x27 ./tool/buf_factory.o
+ .debug_macro   0x00001549       0x16 ./tool/buf_factory.o
+ .debug_macro   0x0000155f       0x97 ./tool/buf_factory.o
+ .debug_macro   0x000015f6       0x3a ./tool/buf_factory.o
+ .debug_macro   0x00001630       0x4c ./tool/buf_factory.o
+ .debug_macro   0x0000167c       0x1c ./tool/buf_factory.o
+ .debug_macro   0x00001698       0x10 ./tool/buf_factory.o
+ .debug_macro   0x000016a8       0x22 ./tool/buf_factory.o
+ .debug_macro   0x000016ca       0x2e ./tool/buf_factory.o
+ .debug_macro   0x000016f8       0x4c ./tool/buf_factory.o
+ .debug_macro   0x00001744       0x22 ./tool/buf_factory.o
+ .debug_macro   0x00001766       0x62 ./tool/buf_factory.o
+ .debug_macro   0x000017c8       0x6e ./tool/buf_factory.o
+ .debug_macro   0x00001836       0x3a ./tool/buf_factory.o
+ .debug_macro   0x00001870       0x12 ./tool/buf_factory.o
+ .debug_macro   0x00001882       0x20 ./tool/buf_factory.o
+ .debug_macro   0x000018a2       0x1c ./tool/buf_factory.o
+ .debug_macro   0x000018be       0x10 ./tool/buf_factory.o
+ .debug_macro   0x000018ce       0x16 ./tool/buf_factory.o
+ .debug_macro   0x000018e4       0x28 ./tool/buf_factory.o
+ .debug_macro   0x0000190c       0x10 ./tool/buf_factory.o
+ .debug_macro   0x0000191c       0x4c ./tool/buf_factory.o
+ .debug_macro   0x00001968       0x1c ./tool/buf_factory.o
+ .debug_macro   0x00001984       0x20 ./tool/buf_factory.o
+ .debug_macro   0x000019a4       0x46 ./tool/buf_factory.o
+ .debug_macro   0x000019ea       0x10 ./tool/buf_factory.o
+ .debug_macro   0x000019fa       0x10 ./tool/buf_factory.o
+ .debug_macro   0x00001a0a       0x12 ./tool/buf_factory.o
+ .debug_macro   0x00001a1c       0x10 ./tool/buf_factory.o
+ .debug_macro   0x00001a2c       0x10 ./tool/buf_factory.o
+ .debug_macro   0x00001a3c       0x22 ./tool/buf_factory.o
+ .debug_macro   0x00001a5e       0x86 ./tool/buf_factory.o
+ .debug_macro   0x00001ae4       0x16 ./tool/buf_factory.o
+ .debug_macro   0x00001afa       0x58 ./tool/buf_factory.o
+ .debug_macro   0x00001b52       0x93 ./tool/buf_factory.o
+ .debug_macro   0x00001be5       0x1c ./tool/buf_factory.o
+ .debug_macro   0x00001c01      0x84b ./tool/key_file.o
+ .debug_macro   0x0000244c       0x10 ./tool/key_file.o
+ .debug_macro   0x0000245c       0x10 ./tool/key_file.o
+ .debug_macro   0x0000246c       0xfc ./tool/key_file.o
+ .debug_macro   0x00002568      0x189 ./tool/key_file.o
+ .debug_macro   0x000026f1       0x10 ./tool/key_file.o
+ .debug_macro   0x00002701       0xf4 ./tool/key_file.o
+ .debug_macro   0x000027f5       0xc3 ./tool/key_file.o
+ .debug_macro   0x000028b8       0x1c ./tool/key_file.o
+ .debug_macro   0x000028d4       0x58 ./tool/key_file.o
+ .debug_macro   0x0000292c       0x88 ./tool/key_file.o
+ .debug_macro   0x000029b4       0x76 ./tool/key_file.o
+ .debug_macro   0x00002a2a      0x202 ./tool/key_file.o
+ .debug_macro   0x00002c2c      0x2ae ./tool/key_file.o
+ .debug_macro   0x00002eda       0xb8 ./tool/key_file.o
+ .debug_macro   0x00002f92       0x35 ./tool/key_file.o
+ .debug_macro   0x00002fc7       0x48 ./tool/key_file.o
+ .debug_macro   0x0000300f      0x1b8 ./tool/key_file.o
+ .debug_macro   0x000031c7       0x1c ./tool/key_file.o
+ .debug_macro   0x000031e3       0x22 ./tool/key_file.o
+ .debug_macro   0x00003205       0x6b ./tool/key_file.o
+ .debug_macro   0x00003270       0x58 ./tool/key_file.o
+ .debug_macro   0x000032c8       0x58 ./tool/key_file.o
+ .debug_macro   0x00003320       0x34 ./tool/key_file.o
+ .debug_macro   0x00003354       0x1c ./tool/key_file.o
+ .debug_macro   0x00003370      0x106 ./tool/key_file.o
+ .debug_macro   0x00003476       0x10 ./tool/key_file.o
+ .debug_macro   0x00003486      0x1e4 ./tool/key_file.o
+ .debug_macro   0x0000366a       0x12 ./tool/key_file.o
+ .debug_macro   0x0000367c       0x64 ./tool/key_file.o
+ .debug_macro   0x000036e0       0x20 ./tool/key_file.o
+ .debug_macro   0x00003700       0x1c ./tool/key_file.o
+ .debug_macro   0x0000371c       0x6a ./tool/key_file.o
+ .debug_macro   0x00003786       0x40 ./tool/key_file.o
+ .debug_macro   0x000037c6       0x16 ./tool/key_file.o
+ .debug_macro   0x000037dc       0x5b ./tool/key_file.o
+ .debug_macro   0x00003837       0x63 ./tool/key_file.o
+ .debug_macro   0x0000389a       0x22 ./tool/key_file.o
+ .debug_macro   0x000038bc       0x34 ./tool/key_file.o
+ .debug_macro   0x000038f0       0x48 ./tool/key_file.o
+ .debug_macro   0x00003938       0x4f ./tool/key_file.o
+ .debug_macro   0x00003987       0x16 ./tool/key_file.o
+ .debug_macro   0x0000399d       0x10 ./tool/key_file.o
+ .debug_macro   0x000039ad       0x35 ./tool/key_file.o
+ .debug_macro   0x000039e2       0x10 ./tool/key_file.o
+ .debug_macro   0x000039f2       0x35 ./tool/key_file.o
+ .debug_macro   0x00003a27       0x19 ./tool/key_file.o
+ .debug_macro   0x00003a40       0x18 ./tool/key_file.o
+ .debug_macro   0x00003a58       0x19 ./tool/key_file.o
+ .debug_macro   0x00003a71       0x10 ./tool/key_file.o
+ .debug_macro   0x00003a81       0xab ./tool/key_file.o
+ .debug_macro   0x00003b2c       0x64 ./tool/key_file.o
+ .debug_macro   0x00003b90       0x12 ./tool/key_file.o
+ .debug_macro   0x00003ba2       0x10 ./tool/key_file.o
+ .debug_macro   0x00003bb2       0x45 ./tool/key_file.o
+ .debug_macro   0x00003bf7       0x22 ./tool/key_file.o
+ .debug_macro   0x00003c19       0x10 ./tool/key_file.o
+ .debug_macro   0x00003c29       0x5a ./tool/key_file.o
+ .debug_macro   0x00003c83       0xa9 ./tool/key_file.o
+ .debug_macro   0x00003d2c       0x22 ./tool/key_file.o
+ .debug_macro   0x00003d4e       0xbe ./tool/key_file.o
+ .debug_macro   0x00003e0c       0x3a ./tool/key_file.o
+ .debug_macro   0x00003e46       0x35 ./tool/key_file.o
+ .debug_macro   0x00003e7b       0x41 ./tool/key_file.o
+ .debug_macro   0x00003ebc       0x16 ./tool/key_file.o
+ .debug_macro   0x00003ed2      0x239 ./tool/key_file.o
+ .debug_macro   0x0000410b       0x45 ./tool/key_file.o
+ .debug_macro   0x00004150       0x1b ./tool/list.o
+ .debug_macro   0x0000416b      0x357 ./tool/mailbox.o
+ .debug_macro   0x000044c2       0x74 ./tool/mailbox.o
+ .debug_macro   0x00004536       0x89 ./tool/mailbox.o
+ .debug_macro   0x000045bf      0x181 ./tool/mailbox.o
+ .debug_macro   0x00004740       0xe6 ./tool/mailbox.o
+ .debug_macro   0x00004826       0xd4 ./tool/mailbox.o
+ .debug_macro   0x000048fa       0x10 ./tool/mailbox.o
+ .debug_macro   0x0000490a       0x49 ./tool/mailbox.o
+ .debug_macro   0x00004953       0x6a ./tool/mailbox.o
+ .debug_macro   0x000049bd       0x69 ./tool/mailbox.o
+ .debug_macro   0x00004a26       0x3f ./tool/mailbox.o
+ .debug_macro   0x00004a65       0x92 ./tool/message.o
+ .debug_macro   0x00004af7      0x173 ./tool/message.o
+ .debug_macro   0x00004c6a      0x304 ./tool/msg_factory.o
+ .debug_macro   0x00004f6e      0x10e ./tool/msg_factory.o
+ .debug_macro   0x0000507c      0x353 ./tool/thread.o
+ .debug_macro   0x000053cf      0x235 ./tool/thread.o
+ .debug_macro   0x00005604       0x2e ./tool/thread.o
+ .debug_macro   0x00005632      0x122 ./tool/thread.o
+ .debug_macro   0x00005754       0x8e ./tool/thread.o
+ .debug_macro   0x000057e2       0x58 ./tool/thread.o
+ .debug_macro   0x0000583a       0xfa ./tool/thread.o
+ .debug_macro   0x00005934       0x34 ./tool/thread.o
+ .debug_macro   0x00005968       0xba ./tool/thread.o
+ .debug_macro   0x00005a22       0x5f ./tool/thread.o
+ .debug_macro   0x00005a81       0x2e ./tool/thread.o
+ .debug_macro   0x00005aaf       0x16 ./tool/thread.o
+ .debug_macro   0x00005ac5       0x12 ./tool/thread.o
+ .debug_macro   0x00005ad7       0x83 ./tool/thread.o
+ .debug_macro   0x00005b5a       0x1c ./tool/thread.o
+ .debug_macro   0x00005b76       0x46 ./tool/thread.o
+ .debug_macro   0x00005bbc       0x6a ./tool/thread.o
+ .debug_macro   0x00005c26      0x190 ./tool/thread.o
+ .debug_macro   0x00005db6       0x52 ./tool/thread.o
+ .debug_macro   0x00005e08       0x27 ./tool/thread.o
+ .debug_macro   0x00005e2f       0x43 ./tool/thread.o
+ .debug_macro   0x00005e72      0x825 ./tool/thread.o
+ .debug_macro   0x00006697       0x27 ./tool/thread.o
+ .debug_macro   0x000066be      0x11e ./tool/thread.o
+ .debug_macro   0x000067dc       0xde ./tool/thread.o
+ .debug_macro   0x000068ba       0x10 ./tool/thread.o
+ .debug_macro   0x000068ca       0x34 ./tool/thread.o
+ .debug_macro   0x000068fe       0x40 ./tool/thread.o
+ .debug_macro   0x0000693e      0x421 ./sample/array.o
+ .debug_macro   0x00006d5f      0x832 ./sample/array.o
+ .debug_macro   0x00007591       0x10 ./sample/array.o
+ .debug_macro   0x000075a1       0x28 ./sample/array.o
+ .debug_macro   0x000075c9       0x16 ./sample/array.o
+ .debug_macro   0x000075df       0x19 ./sample/array.o
+ .debug_macro   0x000075f8       0x29 ./sample/array.o
+ .debug_macro   0x00007621      0x340 ./sample/array.o
+ .debug_macro   0x00007961       0x10 ./sample/array.o
+ .debug_macro   0x00007971      0x382 ./sample/position.o
+ .debug_macro   0x00007cf3      0x832 ./sample/position.o
+ .debug_macro   0x00008525       0x16 ./sample/position.o
+ .debug_macro   0x0000853b      0x47a ./fpga/fpga.o
+ .debug_macro   0x000089b5      0x832 ./fpga/fpga.o
+ .debug_macro   0x000091e7       0x10 ./fpga/fpga.o
+ .debug_macro   0x000091f7      0x106 ./fpga/fpga.o
+ .debug_macro   0x000092fd       0x6e ./fpga/fpga.o
+ .debug_macro   0x0000936b       0x4a ./fpga/fpga.o
+ .debug_macro   0x000093b5      0x33a ./fpga/fpga.o
+ .debug_macro   0x000096ef      0x4bc ./fpga/isr.o
+ .debug_macro   0x00009bab      0x832 ./fpga/isr.o
+ .debug_macro   0x0000a3dd       0x16 ./fpga/isr.o
+ .debug_macro   0x0000a3f3       0x6e ./fpga/isr.o
+ .debug_macro   0x0000a461       0x10 ./fpga/isr.o
+ .debug_macro   0x0000a471       0x5f ./fpga/isr.o
+ .debug_macro   0x0000a4d0       0x20 ./fpga/isr.o
+ .debug_macro   0x0000a4f0       0xa0 ./fpga/isr.o
+ .debug_macro   0x0000a590       0x10 ./fpga/isr.o
+ .debug_macro   0x0000a5a0       0x39 ./fpga/isr.o
+ .debug_macro   0x0000a5d9      0x31d ./communication/local_protocol.o
+ .debug_macro   0x0000a8f6      0x832 ./communication/local_protocol.o
+ .debug_macro   0x0000b128      0x516 ./communication/local_socket.o
+ .debug_macro   0x0000b63e       0x2e ./communication/local_socket.o
+ .debug_macro   0x0000b66c       0x6d ./communication/local_socket.o
+ .debug_macro   0x0000b6d9       0x16 ./communication/local_socket.o
+ .debug_macro   0x0000b6ef       0xd6 ./communication/local_socket.o
+ .debug_macro   0x0000b7c5      0x256 ./communication/local_socket.o
+ .debug_macro   0x0000ba1b       0x10 ./communication/local_socket.o
+ .debug_macro   0x0000ba2b       0x16 ./communication/local_socket.o
+ .debug_macro   0x0000ba41       0x16 ./communication/local_socket.o
+ .debug_macro   0x0000ba57       0x63 ./communication/local_socket.o
+ .debug_macro   0x0000baba       0x16 ./communication/local_socket.o
+ .debug_macro   0x0000bad0       0x10 ./communication/local_socket.o
+ .debug_macro   0x0000bae0      0x28a ./communication/local_socket.o
+ .debug_macro   0x0000bd6a       0x16 ./communication/local_socket.o
+ .debug_macro   0x0000bd80       0xc8 ./communication/local_socket.o
+ .debug_macro   0x0000be48       0x34 ./communication/local_socket.o
+ .debug_macro   0x0000be7c      0x124 ./communication/local_socket.o
+ .debug_macro   0x0000bfa0       0x22 ./communication/local_socket.o
+ .debug_macro   0x0000bfc2       0x10 ./communication/local_socket.o
+ .debug_macro   0x0000bfd2      0x3f9 ./app/main.o
+ .debug_macro   0x0000c3cb       0x51 ./app/main.o
+ .debug_macro   0x0000c41c       0x5c ./app/main.o
+ .debug_macro   0x0000c478      0x96b ./app/sys_conf.o
+ .debug_macro   0x0000cde3       0x41 ./app/sys_conf.o
+ .debug_macro   0x0000ce24       0x69 ./app/sys_conf.o
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(reject_process elf32-littlearm)
